@@ -6,7 +6,7 @@
 
 
 ## 🎭 Sobre mim
-*Tenho hoje 20 anos. Curso Ciência de Dados pela UNIVESP e estou engajado em aprender mais sobre as tecnologias que estão presentes em tudo! Quero um dia ser um desenvolvedor Full Stack, trabalhar como Data Analytics ou algo tão empolgante quanto rsrs. Bem, este é um resumo sobre mim e o que almejo ser em um futuro não tão distante.*
+*Tenho hoje 20 anos. Curso Ciência de Dados pela UNIVESP e estou engajado em aprender mais sobre as tecnologias que estão presentes em tudo! Quero um dia ser um desenvolvedor Full Stack ou algo tão empolgante quanto rsrs. Bem, este é um resumo sobre mim e o que almejo ser em um futuro não tão distante.*
 
 ## 🫧 Minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=gold)](https://www.linkedin.com/in/mateus-10001/)
@@ -18,7 +18,14 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=gold)](https://wa.me/+5561996855744)
 
 ## 🫧 Habilidades
-> *Ainda nenhuma que eu possa ser considerado realmente bom, porém tenho algum conhecimento em Front-End e Back-End.*
+> *Ainda nenhuma que eu possa ser considerado realmente bom, porém tenho algum conhecimento em Front e Back-End.*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0Notzura&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 
 
