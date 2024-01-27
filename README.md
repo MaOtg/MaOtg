@@ -1,6 +1,6 @@
 
 # | Mateus Ortega Mendes | 
-> "*Um iniciante apaixonado pela tecnologia*"
+> "*Um programador apaixonado pela tecnologia*"
 
 ![fundobonitin](https://github.com/MaOtg/MaOtg/assets/79218443/7ef5b568-10e6-4943-9a84-0e426c0d01d7)
 
