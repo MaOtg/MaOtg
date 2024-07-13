@@ -6,7 +6,7 @@
 
 
 ## 🎭 Sobre mim
-*Tenho hoje 20 anos. Curso Ciência de Dados pela UNIVESP e estou engajado em aprender mais sobre as tecnologias que estão presentes em tudo! Quero um dia ser um desenvolvedor Full Stack ou algo tão empolgante quanto rsrs. Bem, este é um resumo sobre mim e o que almejo ser em um futuro não tão distante.*
+*Tenho hoje 20 anos. Curso Ciência de Dados pela UNIVESP e estou engajado em aprender mais sobre as tecnologias que estão presentes em tudo! Almejo aprender sobre o vasto mundo da programação e me tornar fluente em me comunicar com um computador. - 🌱 Atualmente estou aprendendo muito sobre Machine Learning e criando diversos modelos de previsão. - ⚡ Venho desenvolvendo meu conhecimento com ferramentos úteis para o dia a dia corporativo, principalmente com Power BI, entendendo a dinâmica da coleta e transformação dos dados, relacionamento entre tabelas e criação de relatórios e dashboards modernos. Bem, este é um resumo sobre mim e o que almejo ser em um futuro não tão distante.*
 
 ## 🫧 Minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=gold)](https://www.linkedin.com/in/mateus-10001/)
