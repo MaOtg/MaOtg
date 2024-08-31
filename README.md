@@ -2,7 +2,7 @@
 # | Mateus Ortega Mendes | 
 > "*Um programador apaixonado pela tecnologia*"
 
-![fundoGitHub](https://github.com/MaOtg/MaOtg/assets/79218443/d4cbf93e-12c8-41dc-9888-95a83faff565)
+![Imagem do WhatsApp de 2024-08-31 à(s) 15 30 27_a9779654](https://github.com/user-attachments/assets/c9d5ee20-a43e-4271-872c-d55497ce18e2)
 
 
 ## 🎭 Sobre mim
