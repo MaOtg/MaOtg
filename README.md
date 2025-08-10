@@ -2,7 +2,7 @@
 # | Mateus Ortega Mendes | 
 > "*Um programador e cientista de dados apaixonado pela tecnologia*"
 
-![Imagem do WhatsApp de 2024-08-31 à(s) 15 30 27_a9779654](https://github.com/user-attachments/assets/c9d5ee20-a43e-4271-872c-d55497ce18e2)
+<img width="1536" height="1024" alt="GitHub" src="https://github.com/user-attachments/assets/d7929de6-f417-4990-bfd2-747c6269e773" />
 
 
 ## 🎭 Sobre mim
