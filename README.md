@@ -22,6 +22,7 @@ Vamos nos conectar!*
 
 ## 🫧 Principais Habilidades e Ferramentas
 > *Análise de Dados e Storytelling*
+> 
 > *Python: ETL, Construção de Pipelines de Dados, Processos Automatizados, ETL, Web Scraping*
 > *Análises Preditivas: Machine Learning*
 > *Power BI: Dashboards, Relatórios, DAX, Transformação de Dados, Power Query*
