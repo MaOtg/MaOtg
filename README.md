@@ -24,10 +24,15 @@ Vamos nos conectar!*
 > *Análise de Dados e Storytelling*
 > 
 > *Python: ETL, Construção de Pipelines de Dados, Processos Automatizados, ETL, Web Scraping*
+> 
 > *Análises Preditivas: Machine Learning*
+> 
 > *Power BI: Dashboards, Relatórios, DAX, Transformação de Dados, Power Query*
+> 
 > *SQL e NoSQL: Consultas, Registros, Criação e Junção de Tabelas*
+> 
 > *Linguagens de Programação Favoritas: C e C++*
+> 
 > *Experiência com Ambientes: Azure, Databricks, Azure DataFactory, Power BI, Python, SQL Warehouse, SQL Server, R, DataLake*
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
