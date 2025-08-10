@@ -6,12 +6,12 @@
 
 
 ## 🎭 Sobre mim
-*Sou um profissional com experiência na construção de processos sólidos de ETL e pipelines com Python para requisições/tratamento de dados via API e Web Scraping, construção de indicadores, relatórios e dashboards com Power BI para obtenção de insights. 
-Sobre minhas formações: Bacharel em Tecnologia da Informação com ênfase em análise de dados; Bacharel em Ciência de Dados.
-⚡Cursos livres: +150 Certificados e participações em bootcamps.
-Conquistas profissionais: Aumento de produtividade na área. Estruturação e organização de processos. Publicações e estudos que tiveram um impacto positivo para a organização. Implementação e disseminação do uso de Inteligência Artificial.
-🌱 Almejo aprender cada vez mais sobre o vasto mundo da tecnologia e a geopolítica envolvida neste universo.
-Vamos nos conectar!*
+*Sou um profissional com experiência na construção de processos sólidos de ETL e pipelines com Python para requisições/tratamento de dados via API e Web Scraping, construção de indicadores, relatórios e dashboards com Power BI para obtenção de insights.* 
+*Sobre minhas formações: Bacharel em Tecnologia da Informação com ênfase em análise de dados; Bacharel em Ciência de Dados.*
+*⚡Cursos livres: +150 Certificados e participações em bootcamps.*
+*Conquistas profissionais: Aumento de produtividade na área. Estruturação e organização de processos. Publicações e estudos que tiveram um impacto positivo para a organização. Implementação e disseminação do uso de Inteligência Artificial.*
+*🌱 Almejo aprender cada vez mais sobre o vasto mundo da tecnologia e a geopolítica envolvida neste universo.*
+*Vamos nos conectar!*
 
 ## 🫧 Minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=gold)](https://www.linkedin.com/in/mateus-10001/)
